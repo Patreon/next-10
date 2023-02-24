@@ -1,5 +1,5 @@
 # next-10
-A fork of Next.js 10 that hacks around a bug. This is a temporary solution and should be removed by the end of Q2 2023 at the latest.
+A fork of Next.js 10 that hacks around a bug.
 
 <p align="center">
   <a href="https://nextjs.org">
